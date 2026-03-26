@@ -1,5 +1,5 @@
-### Hello!
-### I am a 15-ish year old developer who loves working with full-stack projects!!
+### hello!!!!
+### i'm a 16-ish year old developer who loves working with full-stack projects!!
 
 ![itsdoruk's Stats](https://github-readme-stats.vercel.app/api?username=itsdoruk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
